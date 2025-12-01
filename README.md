@@ -18,13 +18,13 @@ Welcome to my GitHub! I'm passionate about building intelligent systems that und
 ## 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks:**
-`Python` `PyTorch` `TensorFlow` `scikit-learn` `Transformers (Hugging Face)` `FastAPI` `Docker`
+`Python` `PyTorch` `TensorFlow` `scikit-learn` `Transformers` `FastAPI` `Docker`
 
 **ML/NLP Ecosystem:**
-`LangChain` `LlamaIndex` `OpenAI API` `Vector DBs (Weaviate, Qdrant, FAISS)` `MLflow` `DVC`
+`LangChain` `LangGraph` `Vector DBs` `MLflow` `CV`
 
 **Product & Deployment:**
-`Kubernetes` `Airflow` `Git` `SQL/NoSQL` `Cloud Platforms`
+`Kubernetes` `Git` `SQL/NoSQL` `Cloud Platforms`
 
 ---
 
