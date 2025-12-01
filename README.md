@@ -37,20 +37,6 @@ My academic journey blends deep technical expertise in AI/ML with a growing mast
 
 ---
 
-## 📈 GitHub Stats & Highlights
-
-<!-- GitHub Stats Cards - Update username to yours -->
-![Alexander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=C-PLUS-PLUS-GENIUS&show_icons=true&theme=radical&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-PLUS-PLUS-GENIUS&layout=compact&theme=radical)
-
-<!-- Trophy Stats - Optional -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=C-PLUS-PLUS-GENIUS&theme=radical&column=7)
-
-<!-- Activity Graph - Optional -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=C-PLUS-PLUS-GENIUS&theme=radical)
-
----
-
 ## 📫 Let's Connect & Collaborate
 
 I'm always open to discussing interesting projects, new ideas in ML/NLP, or potential collaborations.
