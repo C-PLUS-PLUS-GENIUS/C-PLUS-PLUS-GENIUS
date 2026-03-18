@@ -31,19 +31,9 @@ Welcome to my GitHub! I'm passionate about building intelligent systems that und
 ## 📚 Education & Path
 
 *   **🎓 Master's Candidate (2025-2027):** **Digital Product Management**, Higher School of Business, HSE. Focusing on the intersection of AI technology and product strategy.
-*   **🏆 Bachelor's with Honors (2021-2025):** **Applied Informatics**, Moscow Polytechnic University. Graduated *Summa Cum Laude* (Red Diploma).
+*   **🏆 Bachelor's with Honors (2021-2025):** **Computer Science**, Moscow Polytechnic University. Graduated *Summa Cum Laude* (Red Diploma).
 
 My academic journey blends deep technical expertise in AI/ML with a growing mastery of product management, aiming to lead the creation of impactful AI-powered products.
-
----
-
-## 📫 Let's Connect & Collaborate
-
-I'm always open to discussing interesting projects, new ideas in ML/NLP, or potential collaborations.
-
-*   **💼 Professional Profile:** [LinkedIn](https://www.linkedin.com/in/alexandr-andrushchenko-51832827a/) *(Replace with your actual link)*
-*   **📧 Email:** [your.email@example.com](mailto:your.email@example.com) *(Replace with your actual email)*
-*   **💬 Telegram:** [@your_handle](https://t.me/your_handle) *(Optional)*
 
 ---
 
